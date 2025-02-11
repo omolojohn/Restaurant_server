@@ -1,0 +1,36 @@
+
+
+{
+    "menu": [
+      {
+        "name": "Milk shake",
+        "description": "Fresh cow milk",
+        "price": "Ksh150",
+        "image_url": "https://images.pexels.com/photos/103566/pexels-photo-103566.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "name": "Fish",
+        "description": "Fresh from the lake to your plate",
+        "price": "Ksh480",
+        "image_url": "https://images.pexels.com/photos/11776375/pexels-photo-11776375.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "name": "Chicken",
+        "description": "The chicken that talks with your appetite",
+        "price": "Ksh370",
+        "image_url": "https://images.pexels.com/photos/6210876/pexels-photo-6210876.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "name": "Ugali Sukuma wiki",
+        "description": "Nice and accommodative",
+        "price": "Ksh130",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ugali_%26_Sukuma_Wiki.jpg"
+      },
+      {
+        "name": "Mtura",
+        "description": "Served naturally",
+        "price": "Ksh50",
+        "image_url": "https://images.pexels.com/photos/2126578/pexels-photo-2126578.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  }
